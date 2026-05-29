@@ -1,0 +1,29 @@
+description: Ultralytics best model trained on /datasets/datanew2705v1iyolov11-d00615c5/data.yaml
+author: Ultralytics
+date: '2026-05-27T13:25:16.358737'
+version: 8.4.56
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: gloves
+  1: hands
+  2: head
+  3: helmet
+  4: person
+  5: vest
+args:
+  data: coco8.yaml
+  batch: 1
+  fraction: 1.0
+  half: false
+  int8: true
+  dynamic: false
+  nms: false
+channels: 3
+end2end: false

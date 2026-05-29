@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project generated folders
+anh_vi_pham/
+bao_cao/
+kernel.errors.txt
+.gemini/
+
+# System files
+Thumbs.db
+EHthumbs.db
+Desktop.ini
