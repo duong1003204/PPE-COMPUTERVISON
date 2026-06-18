@@ -38,3 +38,4 @@ python main.py
 - `controllers/`: Cầu nối điều khiển và xử lý sự kiện giữa `Model` và `View`.
 - `exp-2.openvino/`: Thư mục lưu trữ model YOLO dạng OpenVINO đã được convert.
 # PPE-COMPUTERVISON-1
+# PPE-COMPUTERVISON-1
