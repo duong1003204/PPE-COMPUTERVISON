@@ -37,3 +37,4 @@ python main.py
 - `views/`: Chứa thiết kế giao diện đồ họa sử dụng PyQt6.
 - `controllers/`: Cầu nối điều khiển và xử lý sự kiện giữa `Model` và `View`.
 - `exp-2.openvino/`: Thư mục lưu trữ model YOLO dạng OpenVINO đã được convert.
+# PPE-COMPUTERVISON-1
