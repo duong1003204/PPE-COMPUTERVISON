@@ -3,6 +3,7 @@
 Hệ thống sử dụng thị giác máy tính (**YOLOv11s/OpenVINO**) để giám sát và cảnh báo thời gian thực việc tuân thủ trang thiết bị bảo hộ lao động (**PPE - Personal Protective Equipment**) của công nhân. 
 
 Dự án được xây dựng dựa trên kiến trúc **MVC (Model-View-Controller)** chuẩn mực, kết hợp giao diện máy tính để bàn hiện đại bằng **PyQt6 (Fusion Style)**.
+Link data của project: https://universe.roboflow.com/duong20220617/
 
 ---
 
