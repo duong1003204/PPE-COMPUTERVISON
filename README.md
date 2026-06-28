@@ -87,36 +87,4 @@ DATN-CODE - Copy/
 
 ---
 
-## ⚙️ Hướng Dẫn Git & Triển Khai Repo (Quick Start)
 
-Nếu bạn muốn khởi tạo Git và đẩy dự án này lên GitHub cá nhân của mình, hãy chạy tuần tự các lệnh sau:
-
-### Khởi tạo & Đẩy mã nguồn lên Github
-```bash
-# Khởi tạo Git repository cục bộ
-git init
-
-# Tạo file README.md (nếu chưa có)
-echo "# PPE-COMPUTERVISON-1" >> README.md
-
-# Thêm tất cả tệp vào staging area
-git add .
-
-# Tạo bản commit đầu tiên
-git commit -m "first commit"
-
-# Chuyển nhánh mặc định sang main
-git branch -M main
-
-# Liên kết với kho chứa trên GitHub
-git remote add origin https://github.com/duong1003204/PPE-COMPUTERVISON.git
-
-# Đẩy code lên GitHub nhánh main
-git push -u origin main
-```
-
-### Cách cập nhật lại URL nếu cấu hình sai chính tả:
-```bash
-git remote set-url origin https://github.com/duong1003204/PPE-COMPUTERVISON.git
-```
-# PPE-COMPUTERVISON-1
